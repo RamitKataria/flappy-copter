@@ -1,5 +1,7 @@
-# flappy-copter
-A 2D helicopter game with the goal of avoiding obstacles and staying alive
+# Helicopter Mania
+A 2D helicopter game with the goal of avoiding obstacles and staying alive.
+
+I created this as a project for Programming 11 in high school.
 
 ## How to run
 CodeSkulptor's libraries are required, so the easiest way to run would be to use its online environment:
